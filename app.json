@@ -1,7 +1,7 @@
 {
   "name": "Phone Change",
   "description": "Heroku Connect Sample App - Phone Change",
-  "repository": "https://github.com/vireshku/herokuphoneedit",
+  "repository": "https://github.com/vpolisetty/herokuphoneedit",
   "success_url": "/setup.html",
   "env": {
     "PGSSLMODE": {
