@@ -39,8 +39,6 @@ app.post('/update', function(req, res) {
             }
         );
     });
-    console.log('response '+ result)
-    console.log('res '+ res)
 });
 
 app.listen(app.get('port'), function () {
