@@ -1,6 +1,6 @@
 {
-  "name": "Phone Change",
-  "description": "Heroku Connect Sample App - Phone Change",
+  "name": "Contact Changer",
+  "description": "Heroku Connect Sample App - Contact Changer",
   "addons": [ "heroku-postgresql"],
   "repository": "https://github.com/vpolisetty/herokuphoneedit",
   "success_url": "/setup.html",
